@@ -14,7 +14,7 @@ At a minimum you will need the following to launch the software:
 ### Video Walk-through
 What's better than a nice pickup game of Texas Holdem? How about a video about a containerized Texas Holdem? Yeeehaww!
 
-[![](https://raw.githubusercontent.com/giantswarm/swarm-wercker/master/static/video.png)](https://vimeo.com/134043502)
+[![](https://raw.githubusercontent.com/giantswarm/swarm-holdem/master/assets/video.png)](https://vimeo.com/134043502)
 
 ### Getting Started
 This won't take long. You'll need to start by heading over to your Slack account settings and doing the following:
