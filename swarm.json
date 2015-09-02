@@ -1,0 +1,8 @@
+{
+  "name": "$project",
+  "components": {
+    "bot": {
+      "image": "registry.giantswarm.io/$org/$project"
+    }
+  }
+}
