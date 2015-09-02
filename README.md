@@ -1,5 +1,5 @@
 ## Holdem: A Poker Playing Slack Bot 
-This repository contains a service deployment for running Charlie Hess' [Slack Poker Bot](https://github.com/CharlieHess/slack-poker-bot). If you want to run the bot on something besides containers, head over there and follow the instructions.
+This repository contains a service deployment for running the [Slack Poker Bot](https://github.com/CharlieHess/slack-poker-bot) by @CharlieHess. If you want to run the bot on something besides containers, head over there and follow the instructions.
 
 ### Prerequisites
 At a minimum you will need the following to launch the software:
